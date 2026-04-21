@@ -1,0 +1,389 @@
+{
+  "stories": [
+    {
+      "story_id": "b01c09-one-look-customer",
+      "title": "只看一眼的客人",
+      "source_inspiration": "Book 1 Chapter 9",
+      "book": 1,
+      "chapter": 9,
+      "source_range": "inspired by dismissive buyers and public judgment scenes",
+      "target_level_note": "low-level rejection-and-focus story",
+      "estimated_known_coverage": 0.95,
+      "new_word_count": 5,
+      "new_words": [
+        {
+          "word": "随手",
+          "pinyin": "suí shǒu",
+          "gloss": "casually"
+        },
+        {
+          "word": "评价",
+          "pinyin": "píng jià",
+          "gloss": "to judge; evaluation"
+        },
+        {
+          "word": "刺",
+          "pinyin": "cì",
+          "gloss": "to sting"
+        },
+        {
+          "word": "专心",
+          "pinyin": "zhuān xīn",
+          "gloss": "focused"
+        },
+        {
+          "word": "下一件",
+          "pinyin": "xià yí jiàn",
+          "gloss": "the next piece"
+        }
+      ],
+      "sentences": [
+        {
+          "sentence_id": "b01c09-one-look-customer-s01",
+          "chinese": "市场里有一种客人，杂草一直不太喜欢。",
+          "english_helper": "There is one kind of customer in the market that Weed has never liked much."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s02",
+          "chinese": "那种人来得快，走得也快。",
+          "english_helper": "That kind of person comes quickly and leaves quickly."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s03",
+          "chinese": "只看一眼，就先开口。",
+          "english_helper": "After one glance, they speak first."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s04",
+          "chinese": "那天，他就遇到了这样一个人。",
+          "english_helper": "That day, he meets exactly such a person."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s05",
+          "chinese": "那个人走过来，随手拿起一个小雕刻。",
+          "english_helper": "The person walks over and casually picks up a small carving."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s06",
+          "chinese": "只看了一眼，就说：“这个不行。”",
+          "english_helper": "After one glance, the person says, 'This one won't do.'"
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s07",
+          "chinese": "又看了第二件，也说：“这个也不行。”",
+          "english_helper": "Then looks at a second one and says, 'This one won't do either.'"
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s08",
+          "chinese": "杂草听见这些话，心里马上被刺了一下。",
+          "english_helper": "Hearing those words, Weed feels an immediate sting inside."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s09",
+          "chinese": "因为那个人根本没有认真看。",
+          "english_helper": "Because that person did not look seriously at all."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s10",
+          "chinese": "可是评价却说得很快。",
+          "english_helper": "Yet the judgment comes very quickly."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s11",
+          "chinese": "杂草差一点就想回话。",
+          "english_helper": "Weed almost wants to answer back."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s12",
+          "chinese": "他甚至已经想到好几句难听的话。",
+          "english_helper": "He has even already thought of several harsh lines."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s13",
+          "chinese": "可是话到嘴边，他又停住了。",
+          "english_helper": "But when the words reach his lips, he stops again."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s14",
+          "chinese": "因为他忽然想到，自己如果现在回过去，今天一整天都会坏掉。",
+          "english_helper": "Because he suddenly thinks that if he fires back now, the whole day will be ruined."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s15",
+          "chinese": "而那个人说完就会走。",
+          "english_helper": "And that person will leave right after speaking."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s16",
+          "chinese": "最后留下来生气的人，还是自己。",
+          "english_helper": "The one left behind feeling angry will still be himself."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s17",
+          "chinese": "所以杂草没有争。",
+          "english_helper": "So Weed does not argue."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s18",
+          "chinese": "那个人果然很快就走了。",
+          "english_helper": "Sure enough, the person leaves very quickly."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s19",
+          "chinese": "杂草一个人站在原地，心里还是很乱。",
+          "english_helper": "Weed stands there alone, and his mind is still very unsettled."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s20",
+          "chinese": "他低头看着自己的作品。",
+          "english_helper": "He lowers his head and looks at his own work."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s21",
+          "chinese": "然后慢慢问自己一个问题。",
+          "english_helper": "Then he slowly asks himself one question."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s22",
+          "chinese": "那个人真的看懂了吗？",
+          "english_helper": "Did that person really understand what he saw?"
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s23",
+          "chinese": "答案当然是没有。",
+          "english_helper": "The answer is of course no."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s24",
+          "chinese": "想到这里，杂草的气慢慢下去了一点。",
+          "english_helper": "Thinking this, Weed's anger slowly goes down a little."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s25",
+          "chinese": "因为他终于知道，不是每一句话都值得放进心里。",
+          "english_helper": "Because he finally knows that not every sentence is worth placing in his heart."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s26",
+          "chinese": "后来，他把那件作品拿近一点，又认真看了一次。",
+          "english_helper": "Later, he brings the piece closer and looks at it seriously once more."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s27",
+          "chinese": "他发现上面当然还有问题。",
+          "english_helper": "He finds that of course there are still problems in it."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s28",
+          "chinese": "可是那些问题，不是刚才那个人随手说出来的那些。",
+          "english_helper": "But those are not the same problems that person casually spoke about."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s29",
+          "chinese": "杂草这一次没有再想那个人。",
+          "english_helper": "This time, Weed stops thinking about that person."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s30",
+          "chinese": "他只开始想下一件。",
+          "english_helper": "He only starts thinking about the next piece."
+        },
+        {
+          "sentence_id": "b01c09-one-look-customer-s31",
+          "chinese": "他终于明白，想走得稳一点，就要把心留给真正专心看的人。",
+          "english_helper": "He finally understands that if he wants to walk more steadily, he has to keep his heart for the people who truly look with focus."
+        }
+      ]
+    },
+    {
+      "story_id": "b01c09-learning-to-wait",
+      "title": "学会等的人",
+      "source_inspiration": "Book 1 Chapter 9",
+      "book": 1,
+      "chapter": 9,
+      "source_range": "inspired by material preparation and waiting-as-work scenes",
+      "target_level_note": "low-level patience-as-skill story",
+      "estimated_known_coverage": 0.95,
+      "new_word_count": 5,
+      "new_words": [
+        {
+          "word": "等",
+          "pinyin": "děng",
+          "gloss": "to wait"
+        },
+        {
+          "word": "干",
+          "pinyin": "gān",
+          "gloss": "dry"
+        },
+        {
+          "word": "着急",
+          "pinyin": "zháo jí",
+          "gloss": "anxious"
+        },
+        {
+          "word": "提前",
+          "pinyin": "tí qián",
+          "gloss": "in advance"
+        },
+        {
+          "word": "步骤",
+          "pinyin": "bù zhòu",
+          "gloss": "step; stage"
+        }
+      ],
+      "sentences": [
+        {
+          "sentence_id": "b01c09-learning-to-wait-s01",
+          "chinese": "杂草最近开始觉得，做东西最烦的时候，不一定是下刀。",
+          "english_helper": "Lately, Weed begins to feel that the most frustrating part of making things is not always the carving itself."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s02",
+          "chinese": "有时候，最烦的是等。",
+          "english_helper": "Sometimes, the most frustrating part is waiting."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s03",
+          "chinese": "有的木头不能马上用。",
+          "english_helper": "Some wood cannot be used right away."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s04",
+          "chinese": "有的地方也不能马上改。",
+          "english_helper": "Some parts also cannot be fixed immediately."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s05",
+          "chinese": "要先等一等。",
+          "english_helper": "You have to wait a little first."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s06",
+          "chinese": "杂草以前最不喜欢这个步骤。",
+          "english_helper": "Weed used to dislike this step the most."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s07",
+          "chinese": "因为在他心里，等就是什么都没做。",
+          "english_helper": "Because in his mind, waiting meant doing nothing."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s08",
+          "chinese": "什么都没做，就让人着急。",
+          "english_helper": "Doing nothing makes a person anxious."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s09",
+          "chinese": "那天，他又遇到了要等的情况。",
+          "english_helper": "That day, he runs into another situation where he has to wait."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s10",
+          "chinese": "一块木头还没有完全干。",
+          "english_helper": "A piece of wood is not fully dry yet."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s11",
+          "chinese": "如果现在下刀，后面一定会出问题。",
+          "english_helper": "If he cuts it now, there will definitely be problems later."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s12",
+          "chinese": "杂草当然知道这个。",
+          "english_helper": "Of course Weed knows this."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s13",
+          "chinese": "可是知道，不等于心里愿意。",
+          "english_helper": "But knowing is not the same as being willing inside."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s14",
+          "chinese": "他坐在那里，看着那块木头，越看越急。",
+          "english_helper": "He sits there looking at the wood, and the more he looks, the more anxious he gets."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s15",
+          "chinese": "他差一点就想先做下去再说。",
+          "english_helper": "He almost wants to keep working on it first and deal with the rest later."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s16",
+          "chinese": "可是这一次，他没有。",
+          "english_helper": "But this time, he does not."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s17",
+          "chinese": "他忽然想到，也许等本来就是工作的一部分。",
+          "english_helper": "He suddenly thinks that maybe waiting is simply part of the work."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s18",
+          "chinese": "如果自己提前知道要等，为什么不先去做别的步骤？",
+          "english_helper": "If he knows in advance that he has to wait, why not do a different step first?"
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s19",
+          "chinese": "想到这里，杂草站了起来。",
+          "english_helper": "Thinking this, Weed stands up."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s20",
+          "chinese": "他把旁边还没整理好的工具先整理好。",
+          "english_helper": "He first organizes the tools nearby that had not yet been put in order."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s21",
+          "chinese": "又把下一块木头也先看了一遍。",
+          "english_helper": "Then he looks over the next piece of wood in advance too."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s22",
+          "chinese": "后来还记下了几个想改的地方。",
+          "english_helper": "Later, he also writes down a few places he wants to adjust."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s23",
+          "chinese": "等他再回来的时候，那块木头已经差不多好了。",
+          "english_helper": "By the time he returns, the piece of wood is almost ready."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s24",
+          "chinese": "杂草低头看着它，心里有一点奇怪。",
+          "english_helper": "Weed looks down at it and feels a little strange inside."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s25",
+          "chinese": "因为刚才那段时间，他明明没有下刀。",
+          "english_helper": "Because during that stretch of time, he clearly did not carve at all."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s26",
+          "chinese": "可是事情还是往前走了。",
+          "english_helper": "But things still moved forward."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s27",
+          "chinese": "那一刻他才明白，等不是空白。",
+          "english_helper": "At that moment he understands that waiting is not blank time."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s28",
+          "chinese": "等也是一种做事的方法。",
+          "english_helper": "Waiting is also a way of working."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s29",
+          "chinese": "从那以后，杂草还是不喜欢等。",
+          "english_helper": "After that, Weed still does not like waiting."
+        },
+        {
+          "sentence_id": "b01c09-learning-to-wait-s30",
+          "chinese": "可是他已经学会，怎么让等也变成前进。",
+          "english_helper": "But he has learned how to make waiting become progress too."
+        }
+      ]
+    }
+  ]
+}
