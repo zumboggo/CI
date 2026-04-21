@@ -1,6 +1,10 @@
 import { startTransition, useEffect, useState } from "react";
 import storyLibraryBaseData from "../config/story_library.json";
-import storyLibraryBook1Ch6To10Data from "../config/story_library_book1_ch6_10.json";
+import storyLibraryBook1Ch06Data from "../config/story_library_book1_ch06.json";
+import storyLibraryBook1Ch07Data from "../config/story_library_book1_ch07.json";
+import storyLibraryBook1Ch08Data from "../config/story_library_book1_ch08.json";
+import storyLibraryBook1Ch09Data from "../config/story_library_book1_ch09.json";
+import storyLibraryBook1Ch10Data from "../config/story_library_book1_ch10.json";
 import "./styles.css";
 import { loadChapters, loadLexicon, loadMeta } from "./lib/reader-data";
 import { loadProgress, saveProgress } from "./lib/storage";
@@ -32,7 +36,11 @@ const PUNCTUATION_RE = /^[，。！？；：、“”‘’（）《》〈〉「
 
 const mergedStories = [
   ...(storyLibraryBaseData as StoryLibrary).stories,
-  ...(storyLibraryBook1Ch6To10Data as StoryLibrary).stories,
+  ...(storyLibraryBook1Ch06Data as StoryLibrary).stories,
+  ...(storyLibraryBook1Ch07Data as StoryLibrary).stories,
+  ...(storyLibraryBook1Ch08Data as StoryLibrary).stories,
+  ...(storyLibraryBook1Ch09Data as StoryLibrary).stories,
+  ...(storyLibraryBook1Ch10Data as StoryLibrary).stories,
 ];
 
 const storyLibrary: StoryLibrary = {
