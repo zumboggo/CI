@@ -1,0 +1,379 @@
+{
+  "stories": [
+    {
+      "story_id": "b01c10-asked-the-name",
+      "title": "终于有人问名字",
+      "source_inspiration": "Book 1 Chapter 10",
+      "book": 1,
+      "chapter": 10,
+      "source_range": "inspired by early reputation and maker-identity scenes",
+      "target_level_note": "low-level maker-identity story",
+      "estimated_known_coverage": 0.95,
+      "new_word_count": 5,
+      "new_words": [
+        {
+          "word": "名字",
+          "pinyin": "míng zi",
+          "gloss": "name"
+        },
+        {
+          "word": "留",
+          "pinyin": "liú",
+          "gloss": "to leave behind"
+        },
+        {
+          "word": "负责",
+          "pinyin": "fù zé",
+          "gloss": "to take responsibility"
+        },
+        {
+          "word": "认",
+          "pinyin": "rèn",
+          "gloss": "to acknowledge"
+        },
+        {
+          "word": "传开",
+          "pinyin": "chuán kāi",
+          "gloss": "to spread around"
+        }
+      ],
+      "sentences": [
+        {
+          "sentence_id": "b01c10-asked-the-name-s01",
+          "chinese": "以前在市场里，很少有人问杂草叫什么。",
+          "english_helper": "Before, very few people in the market asked what Weed was called."
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s02",
+          "chinese": "大家只看东西。",
+          "english_helper": "People only looked at the items."
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s03",
+          "chinese": "买不买，也只看东西。",
+          "english_helper": "Whether to buy or not also depended only on the items."
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s04",
+          "chinese": "杂草以前也觉得这样最好。",
+          "english_helper": "Weed used to think that this was best too."
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s05",
+          "chinese": "名字不重要。",
+          "english_helper": "The name was not important."
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s06",
+          "chinese": "只要能卖出去，就够了。",
+          "english_helper": "As long as things sold, that was enough."
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s07",
+          "chinese": "可是有一天，一个客人买完东西以后，没有马上走。",
+          "english_helper": "But one day, after buying something, a customer does not leave right away."
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s08",
+          "chinese": "客人把东西收好以后，抬头问他：“这个是谁做的？”",
+          "english_helper": "After putting the item away, the customer looks up and asks, 'Who made this?'"
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s09",
+          "chinese": "杂草先说：“我。”",
+          "english_helper": "Weed first says, 'Me.'"
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s10",
+          "chinese": "客人又问：“那你叫什么名字？”",
+          "english_helper": "The customer asks again, 'Then what is your name?'"
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s11",
+          "chinese": "这一句很简单。",
+          "english_helper": "That sentence is very simple."
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s12",
+          "chinese": "可是杂草却停了一下。",
+          "english_helper": "But Weed pauses for a moment."
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s13",
+          "chinese": "因为他从前很少想这件事。",
+          "english_helper": "Because before, he rarely thought about this."
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s14",
+          "chinese": "在他心里，名字像是多出来的东西。",
+          "english_helper": "In his mind, a name feels like something extra."
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s15",
+          "chinese": "东西能不能站住，才是真的。",
+          "english_helper": "Whether the item can stand on its own is what is real."
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s16",
+          "chinese": "可是现在，他忽然觉得，也许不只是这样。",
+          "english_helper": "But now, he suddenly feels maybe it is not only that."
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s17",
+          "chinese": "如果别人问名字，不只是因为好奇。",
+          "english_helper": "If someone asks a name, it is not only because of curiosity."
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s18",
+          "chinese": "也许是因为对方想记住是谁做的。",
+          "english_helper": "Maybe it is also because the person wants to remember who made it."
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s19",
+          "chinese": "想到这里，杂草说出了自己的名字。",
+          "english_helper": "Thinking this, Weed says his name aloud."
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s20",
+          "chinese": "客人点了点头。",
+          "english_helper": "The customer nods."
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s21",
+          "chinese": "客人说：“如果我朋友喜欢，我会再来找你。”",
+          "english_helper": "The customer says, 'If my friend likes it, I'll come find you again.'"
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s22",
+          "chinese": "客人走了以后，杂草站了很久。",
+          "english_helper": "After the customer leaves, Weed stands there for a long time."
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s23",
+          "chinese": "市场里的人还是很多。",
+          "english_helper": "There are still many people in the market."
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s24",
+          "chinese": "声音也还是一样乱。",
+          "english_helper": "The noise is still just as messy."
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s25",
+          "chinese": "可是杂草心里却多了一件新的事。",
+          "english_helper": "But inside Weed, there is one new thought."
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s26",
+          "chinese": "原来把名字留在东西后面，不只是为了出名。",
+          "english_helper": "Leaving a name behind a piece is not only for becoming famous."
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s27",
+          "chinese": "也是在说：这个东西，我认。",
+          "english_helper": "It is also saying: I acknowledge this piece as mine."
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s28",
+          "chinese": "这个好也好，不好也好，我都负责。",
+          "english_helper": "Whether it is good or not, I take responsibility for it."
+        },
+        {
+          "sentence_id": "b01c10-asked-the-name-s29",
+          "chinese": "那一天以后，杂草第一次认真想，自己的名字也许会慢慢传开。",
+          "english_helper": "After that day, for the first time Weed seriously thinks that his name may slowly begin to spread."
+        }
+      ]
+    },
+    {
+      "story_id": "b01c10-made-for-himself",
+      "title": "做给自己的作品",
+      "source_inspiration": "Book 1 Chapter 10",
+      "book": 1,
+      "chapter": 10,
+      "source_range": "inspired by early non-sale practice and maker-purpose scenes",
+      "target_level_note": "low-level intrinsic-motivation story",
+      "estimated_known_coverage": 0.95,
+      "new_word_count": 5,
+      "new_words": [
+        {
+          "word": "作品",
+          "pinyin": "zuò pǐn",
+          "gloss": "work; piece"
+        },
+        {
+          "word": "马上",
+          "pinyin": "mǎ shàng",
+          "gloss": "immediately"
+        },
+        {
+          "word": "练习",
+          "pinyin": "liàn xí",
+          "gloss": "to practice"
+        },
+        {
+          "word": "目的",
+          "pinyin": "mù dì",
+          "gloss": "purpose"
+        },
+        {
+          "word": "留着",
+          "pinyin": "liú zhe",
+          "gloss": "to keep; to leave kept"
+        }
+      ],
+      "sentences": [
+        {
+          "sentence_id": "b01c10-made-for-himself-s01",
+          "chinese": "杂草最近做的东西，大部分都拿去卖。",
+          "english_helper": "Most of the things Weed has made lately have been taken to sell."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s02",
+          "chinese": "因为在他心里，东西如果不能马上变成钱，就很难安心。",
+          "english_helper": "Because in his mind, if something cannot immediately turn into money, it is hard to feel at ease."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s03",
+          "chinese": "这也是他一直以来最习惯的想法。",
+          "english_helper": "This is also the way of thinking he has been most used to all along."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s04",
+          "chinese": "可是那一天，他忽然不想这样。",
+          "english_helper": "But that day, he suddenly does not want to do that."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s05",
+          "chinese": "他想做一件不卖的作品。",
+          "english_helper": "He wants to make one piece that he will not sell."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s06",
+          "chinese": "连他自己也觉得这个想法有一点奇怪。",
+          "english_helper": "Even he himself thinks this idea is a little strange."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s07",
+          "chinese": "因为做了不卖，好像就没有目的。",
+          "english_helper": "Because if he makes something and does not sell it, it seems to have no purpose."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s08",
+          "chinese": "没有目的，就像在浪费时间。",
+          "english_helper": "And without a purpose, it feels like wasting time."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s09",
+          "chinese": "可是这个念头一直没有走。",
+          "english_helper": "But this thought does not leave."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s10",
+          "chinese": "最后，杂草还是坐下来做了。",
+          "english_helper": "In the end, Weed still sits down and makes it."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s11",
+          "chinese": "这一次，他没有去想谁会买。",
+          "english_helper": "This time, he does not think about who will buy it."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s12",
+          "chinese": "也没有去想能卖多少钱。",
+          "english_helper": "He also does not think about how much it can sell for."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s13",
+          "chinese": "他只想试一个自己还不会的样子。",
+          "english_helper": "He only wants to try a form he still does not know how to make."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s14",
+          "chinese": "开始的时候，他还是有一点不习惯。",
+          "english_helper": "At the beginning, he still feels a little unaccustomed."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s15",
+          "chinese": "每做一会儿，脑子里就会冒出一个声音。",
+          "english_helper": "Every so often while working, a voice rises in his head."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s16",
+          "chinese": "这个能卖吗？",
+          "english_helper": "Can this sell?"
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s17",
+          "chinese": "这个值得吗？",
+          "english_helper": "Is this worth it?"
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s18",
+          "chinese": "杂草每次听见这个声音，都把它压下去。",
+          "english_helper": "Each time Weed hears that voice, he presses it down."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s19",
+          "chinese": "然后继续做。",
+          "english_helper": "Then he keeps working."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s20",
+          "chinese": "慢慢地，他发现自己的手比平常更放松。",
+          "english_helper": "Slowly, he notices that his hands are more relaxed than usual."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s21",
+          "chinese": "眼睛也看得更细。",
+          "english_helper": "His eyes also see more carefully."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s22",
+          "chinese": "因为这一次，没有人站在他的心里催他快一点。",
+          "english_helper": "Because this time, no one is standing inside his heart urging him to go faster."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s23",
+          "chinese": "做完以后，那件作品也许不是他最好的。",
+          "english_helper": "When it is finished, that piece may not be his best."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s24",
+          "chinese": "可是杂草看着它，心里有一种很少见的平静。",
+          "english_helper": "But as Weed looks at it, he feels a kind of peace he rarely experiences."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s25",
+          "chinese": "他没有把它拿去市场。",
+          "english_helper": "He does not take it to the market."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s26",
+          "chinese": "也没有急着找人看。",
+          "english_helper": "Nor does he hurry to show it to anyone."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s27",
+          "chinese": "他只是把它留着，放在自己看得见的地方。",
+          "english_helper": "He simply keeps it and places it where he can see it."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s28",
+          "chinese": "那一刻他终于明白，不是每一件作品都要先变成钱。",
+          "english_helper": "At that moment he finally understands that not every piece must first turn into money."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s29",
+          "chinese": "有的作品，是拿来卖的。",
+          "english_helper": "Some pieces are for selling."
+        },
+        {
+          "sentence_id": "b01c10-made-for-himself-s30",
+          "chinese": "有的作品，是拿来让自己再往前走一点的。",
+          "english_helper": "Some pieces are for helping himself move a little farther forward."
+        }
+      ]
+    }
+  ]
+}
