@@ -1,0 +1,389 @@
+{
+  "stories": [
+    {
+      "story_id": "b01c08-cheap-sale-day",
+      "title": "便宜卖掉的那一天",
+      "source_inspiration": "Book 1 Chapter 8",
+      "book": 1,
+      "chapter": 8,
+      "source_range": "inspired by early pricing mistakes and seller-anxiety scenes",
+      "target_level_note": "low-level pricing-confidence story",
+      "estimated_known_coverage": 0.95,
+      "new_word_count": 5,
+      "new_words": [
+        {
+          "word": "便宜",
+          "pinyin": "pián yi",
+          "gloss": "cheap"
+        },
+        {
+          "word": "急着",
+          "pinyin": "jí zhe",
+          "gloss": "in a hurry to"
+        },
+        {
+          "word": "后悔",
+          "pinyin": "hòu huǐ",
+          "gloss": "to regret"
+        },
+        {
+          "word": "本钱",
+          "pinyin": "běn qián",
+          "gloss": "cost; original expense"
+        },
+        {
+          "word": "看轻",
+          "pinyin": "kàn qīng",
+          "gloss": "to think lightly of; undervalue"
+        }
+      ],
+      "sentences": [
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s01",
+          "chinese": "那天市场里的人很多。",
+          "english_helper": "That day, there are many people in the market."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s02",
+          "chinese": "杂草本来觉得，今天应该比较容易卖。",
+          "english_helper": "Weed originally thinks it should be easier to sell today."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s03",
+          "chinese": "可是等了很久以后，他还是没有开张。",
+          "english_helper": "But after waiting a long time, he still has not made a sale."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s04",
+          "chinese": "这时候，一个年轻人停下来问价。",
+          "english_helper": "At that moment, a young man stops and asks the price."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s05",
+          "chinese": "杂草一听见对方开口，心里马上紧了一下。",
+          "english_helper": "As soon as he hears the man speak, Weed's heart tightens at once."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s06",
+          "chinese": "因为他太想卖掉今天的第一件东西。",
+          "english_helper": "Because he wants very badly to sell the first piece of the day."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s07",
+          "chinese": "所以他报了一个很便宜的价格。",
+          "english_helper": "So he names a very cheap price."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s08",
+          "chinese": "便宜到连他自己都愣了一下。",
+          "english_helper": "Cheap enough that even he is startled for a moment."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s09",
+          "chinese": "那个年轻人马上买了。",
+          "english_helper": "The young man buys it right away."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s10",
+          "chinese": "走得也很快。",
+          "english_helper": "And leaves quickly too."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s11",
+          "chinese": "一开始，杂草还告诉自己，这样也好。",
+          "english_helper": "At first, Weed tells himself that this is fine."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s12",
+          "chinese": "至少卖掉了。",
+          "english_helper": "At least it sold."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s13",
+          "chinese": "可是过了一会儿，他越想越不对。",
+          "english_helper": "But after a while, the more he thinks about it, the more it feels wrong."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s14",
+          "chinese": "那件东西他做了很久。",
+          "english_helper": "He spent a long time making that piece."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s15",
+          "chinese": "木头不是白来的。",
+          "english_helper": "The wood did not come for free."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s16",
+          "chinese": "时间也不是白来的。",
+          "english_helper": "Time did not come for free either."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s17",
+          "chinese": "连刀口磨掉的一点力气，也不是白来的。",
+          "english_helper": "Even the effort worn away on the blade was not free."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s18",
+          "chinese": "他忽然发现，自己刚才不是在让价。",
+          "english_helper": "He suddenly realizes that he was not just lowering the price."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s19",
+          "chinese": "自己刚才是在看轻自己的东西。",
+          "english_helper": "He was undervaluing his own work."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s20",
+          "chinese": "这让他心里很不舒服。",
+          "english_helper": "That makes him feel very uncomfortable."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s21",
+          "chinese": "后来，又有人来问别的作品。",
+          "english_helper": "Later, someone else comes to ask about another piece."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s22",
+          "chinese": "这一次，杂草没有急着开口。",
+          "english_helper": "This time, Weed does not hurry to speak."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s23",
+          "chinese": "他先在心里算了一下本钱。",
+          "english_helper": "He first calculates the cost in his mind."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s24",
+          "chinese": "又想了想自己花的时间。",
+          "english_helper": "Then he thinks again about the time he spent."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s25",
+          "chinese": "最后才说出价格。",
+          "english_helper": "Only then does he state the price."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s26",
+          "chinese": "那个人没有马上买。",
+          "english_helper": "That person does not buy immediately."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s27",
+          "chinese": "可是杂草这一次没有乱改。",
+          "english_helper": "But this time, Weed does not change it impulsively."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s28",
+          "chinese": "那个人后来还是走了。",
+          "english_helper": "That person eventually still leaves."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s29",
+          "chinese": "杂草心里当然还是有一点失望。",
+          "english_helper": "Of course Weed still feels a little disappointed."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s30",
+          "chinese": "可是这一次，他没有像刚才那样后悔。",
+          "english_helper": "But this time, he does not regret it the way he did before."
+        },
+        {
+          "sentence_id": "b01c08-cheap-sale-day-s31",
+          "chinese": "他终于明白，想把东西卖出去，不等于要先把自己放低。",
+          "english_helper": "He finally understands that wanting to sell something does not mean putting yourself lower first."
+        }
+      ]
+    },
+    {
+      "story_id": "b01c08-child-looked-long",
+      "title": "看了很久的孩子",
+      "source_inspiration": "Book 1 Chapter 8",
+      "book": 1,
+      "chapter": 8,
+      "source_range": "inspired by small public reactions and unexpected viewers",
+      "target_level_note": "low-level quiet-recognition story",
+      "estimated_known_coverage": 0.95,
+      "new_word_count": 5,
+      "new_words": [
+        {
+          "word": "孩子",
+          "pinyin": "hái zi",
+          "gloss": "child"
+        },
+        {
+          "word": "停住",
+          "pinyin": "tíng zhù",
+          "gloss": "to stop in place"
+        },
+        {
+          "word": "舍得",
+          "pinyin": "shě de",
+          "gloss": "to be willing to part with"
+        },
+        {
+          "word": "碰",
+          "pinyin": "pèng",
+          "gloss": "to touch"
+        },
+        {
+          "word": "珍贵",
+          "pinyin": "zhēn guì",
+          "gloss": "precious"
+        }
+      ],
+      "sentences": [
+        {
+          "sentence_id": "b01c08-child-looked-long-s01",
+          "chinese": "下午的时候，市场稍微安静了一点。",
+          "english_helper": "In the afternoon, the market becomes a little quieter."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s02",
+          "chinese": "杂草站在自己的东西旁边，没有说话。",
+          "english_helper": "Weed stands beside his pieces without speaking."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s03",
+          "chinese": "这时候，一个孩子走到他的摊前。",
+          "english_helper": "At that moment, a child walks up to his stall."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s04",
+          "chinese": "孩子没有马上问价。",
+          "english_helper": "The child does not ask the price right away."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s05",
+          "chinese": "也没有像大人那样只看一眼就走。",
+          "english_helper": "And does not just glance once and leave like the adults do."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s06",
+          "chinese": "孩子只是站在那里，看着一个小狗雕刻。",
+          "english_helper": "The child simply stands there looking at a small dog carving."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s07",
+          "chinese": "看了很久很久。",
+          "english_helper": "And keeps looking for a very long time."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s08",
+          "chinese": "杂草一开始有一点不明白。",
+          "english_helper": "At first, Weed does not quite understand."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s09",
+          "chinese": "后来他才发现，孩子不是随便看看。",
+          "english_helper": "Later he realizes the child is not just browsing casually."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s10",
+          "chinese": "孩子是真的喜欢。",
+          "english_helper": "The child truly likes it."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s11",
+          "chinese": "孩子甚至轻轻把手抬起来。",
+          "english_helper": "The child even lifts a hand gently."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s12",
+          "chinese": "可是又马上放下。",
+          "english_helper": "But immediately lowers it again."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s13",
+          "chinese": "好像怕碰坏。",
+          "english_helper": "As if afraid of damaging it."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s14",
+          "chinese": "杂草看见这个动作，心里忽然一动。",
+          "english_helper": "Seeing that motion, something in Weed stirs suddenly."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s15",
+          "chinese": "因为平常看他东西的人，很少这么小心。",
+          "english_helper": "Because people who usually look at his work are rarely this careful."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s16",
+          "chinese": "大部分人只会问值不值。",
+          "english_helper": "Most people only ask whether it is worth the money."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s17",
+          "chinese": "可是这个孩子先问的不是钱。",
+          "english_helper": "But this child does not ask about money first."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s18",
+          "chinese": "孩子先问：“它是不是很乖？”",
+          "english_helper": "The child first asks, 'Is it very gentle?'"
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s19",
+          "chinese": "杂草听了，先愣了一下。",
+          "english_helper": "Weed is startled for a moment when he hears that."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s20",
+          "chinese": "然后他说：“嗯，我做它的时候，是这么想的。”",
+          "english_helper": "Then he says, 'Mm, that is what I was thinking when I made it.'"
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s21",
+          "chinese": "孩子听了以后，眼睛更亮了。",
+          "english_helper": "After hearing that, the child's eyes grow brighter."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s22",
+          "chinese": "后来，一个大人走过来，把孩子叫走。",
+          "english_helper": "Later, an adult walks over and calls the child away."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s23",
+          "chinese": "他们最后没有买。",
+          "english_helper": "In the end, they do not buy it."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s24",
+          "chinese": "孩子走的时候，还一直回头看。",
+          "english_helper": "As the child leaves, the child keeps looking back."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s25",
+          "chinese": "杂草本来应该觉得可惜。",
+          "english_helper": "Weed should have felt it was a pity."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s26",
+          "chinese": "可是那一刻，他心里反而有一点暖。",
+          "english_helper": "But at that moment, he instead feels a little warmth inside."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s27",
+          "chinese": "因为他第一次发现，自己的东西可以让人停住那么久。",
+          "english_helper": "Because for the first time he discovers that his work can make someone stop for that long."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s28",
+          "chinese": "也可以让人舍不得碰。",
+          "english_helper": "It can also make someone reluctant to touch it."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s29",
+          "chinese": "那件小狗雕刻还是放在那里。",
+          "english_helper": "That little dog carving is still sitting there."
+        },
+        {
+          "sentence_id": "b01c08-child-looked-long-s30",
+          "chinese": "可是杂草再看它的时候，已经觉得它比刚才更珍贵了一点。",
+          "english_helper": "But when Weed looks at it again, he already feels it is a little more precious than before."
+        }
+      ]
+    }
+  ]
+}
