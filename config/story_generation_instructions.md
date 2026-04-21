@@ -75,6 +75,18 @@ Every story must include:
 - If a sentence would be confusing by itself in the app, rewrite it to be more self-contained.
 - Reuse recurring vocabulary and sentence patterns so the app content feels consistent.
 
+## Chapter Shelf Policy
+
+- The default target is `2 stories per chapter`.
+- Use `2` as the normal content cadence when filling a chapter shelf.
+- Use only `1` story for a chapter if the source text supports only one clean, level-appropriate mini-arc.
+- Use `3` stories only when a chapter naturally contains three clearly different self-contained arcs.
+- Stories in the same chapter should not feel like minor rewrites of the same beat.
+- A chapter pair should differ in at least one major way:
+  external situation, internal struggle, misbelief, or final shift.
+- When filling a chapter, prefer the strongest pair of stories first instead of trying to cover every event.
+- Variety is more important than plot completeness.
+
 ## Suggested Metadata For Saved Stories
 
 When storing stories in local project files for later app use, include:
