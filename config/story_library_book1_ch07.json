@@ -1,0 +1,404 @@
+{
+  "stories": [
+    {
+      "story_id": "b01c07-returning-customer",
+      "title": "回来的客人",
+      "source_inspiration": "Book 1 Chapter 7",
+      "book": 1,
+      "chapter": 7,
+      "source_range": "inspired by early repeat-customer and seller-growth scenes",
+      "target_level_note": "low-level trust-building story",
+      "estimated_known_coverage": 0.95,
+      "new_word_count": 5,
+      "new_words": [
+        {
+          "word": "客人",
+          "pinyin": "kè rén",
+          "gloss": "customer; guest"
+        },
+        {
+          "word": "记得",
+          "pinyin": "jì de",
+          "gloss": "to remember"
+        },
+        {
+          "word": "回头",
+          "pinyin": "huí tóu",
+          "gloss": "to come back"
+        },
+        {
+          "word": "信",
+          "pinyin": "xìn",
+          "gloss": "to trust"
+        },
+        {
+          "word": "照样",
+          "pinyin": "zhào yàng",
+          "gloss": "all the same; as before"
+        }
+      ],
+      "sentences": [
+        {
+          "sentence_id": "b01c07-returning-customer-s01",
+          "chinese": "有一天，杂草正在市场边上整理自己的东西。",
+          "english_helper": "One day, Weed is organizing his things at the side of the market."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s02",
+          "chinese": "一个人停在他面前。",
+          "english_helper": "A person stops in front of him."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s03",
+          "chinese": "杂草抬头一看，觉得这个人有一点眼熟。",
+          "english_helper": "Weed looks up and thinks the person seems a little familiar."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s04",
+          "chinese": "后来他才想起来。",
+          "english_helper": "Then he finally remembers."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s05",
+          "chinese": "这个人以前买过他一个小雕刻。",
+          "english_helper": "This person bought one of his small carvings before."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s06",
+          "chinese": "那时候，杂草只觉得自己运气不错。",
+          "english_helper": "At that time, Weed only thought he had gotten lucky."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s07",
+          "chinese": "买完以后，客人就走了。",
+          "english_helper": "After buying it, the customer left."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s08",
+          "chinese": "所以杂草没有再多想。",
+          "english_helper": "So Weed did not think more about it."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s09",
+          "chinese": "可是现在，这个人又回头了。",
+          "english_helper": "But now, this person has come back."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s10",
+          "chinese": "客人先看了看摊上的东西。",
+          "english_helper": "The customer first looks over the pieces on display."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s11",
+          "chinese": "然后说：“你最近做得比以前更好了。”",
+          "english_helper": "Then says, 'What you've made lately is better than before.'"
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s12",
+          "chinese": "杂草听见这句话，心里先是一愣。",
+          "english_helper": "When Weed hears that sentence, he is startled first."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s13",
+          "chinese": "因为他没有想到，对方会记得。",
+          "english_helper": "Because he did not expect the other person to remember."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s14",
+          "chinese": "在他心里，卖掉就是卖掉了。",
+          "english_helper": "In his mind, once something is sold, it is simply sold."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s15",
+          "chinese": "东西离手，事情也就结束。",
+          "english_helper": "Once the item leaves his hand, the matter is over."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s16",
+          "chinese": "可是这个客人不是这样。",
+          "english_helper": "But this customer is not like that."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s17",
+          "chinese": "客人又说：“上次那个我朋友很喜欢。”",
+          "english_helper": "The customer adds, 'My friend liked the one from last time very much.'"
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s18",
+          "chinese": "“所以我想再看看。”",
+          "english_helper": "'So I wanted to come look again.'"
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s19",
+          "chinese": "杂草这一次没有马上报价格。",
+          "english_helper": "This time, Weed does not quote a price right away."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s20",
+          "chinese": "他先把两件比较像的作品拿出来。",
+          "english_helper": "He first brings out two pieces that are somewhat similar."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s21",
+          "chinese": "又说了它们不一样的地方。",
+          "english_helper": "Then he explains how they are different."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s22",
+          "chinese": "客人听得很认真。",
+          "english_helper": "The customer listens very carefully."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s23",
+          "chinese": "最后选了一件新的。",
+          "english_helper": "In the end, the customer chooses a new one."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s24",
+          "chinese": "付钱的时候，客人笑着说：“以后我还会来。”",
+          "english_helper": "While paying, the customer smiles and says, 'I'll come again later.'"
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s25",
+          "chinese": "客人走了以后，杂草还站在那里。",
+          "english_helper": "After the customer leaves, Weed is still standing there."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s26",
+          "chinese": "市场照样很吵。",
+          "english_helper": "The market is still noisy as usual."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s27",
+          "chinese": "可是他心里有一种新的感觉。",
+          "english_helper": "But there is a new feeling in his heart."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s28",
+          "chinese": "原来有人不是只买一次。",
+          "english_helper": "So there are people who do not buy only once."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s29",
+          "chinese": "原来做得认真一点，别人真的会记得。",
+          "english_helper": "So if he works a little more seriously, people really will remember."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s30",
+          "chinese": "杂草终于明白，卖东西不只是把东西推出去。",
+          "english_helper": "Weed finally understands that selling something is not only about pushing the item out."
+        },
+        {
+          "sentence_id": "b01c07-returning-customer-s31",
+          "chinese": "也是让别人开始信你。",
+          "english_helper": "It is also about making others begin to trust you."
+        }
+      ]
+    },
+    {
+      "story_id": "b01c07-night-lamp",
+      "title": "灯还亮着的晚上",
+      "source_inspiration": "Book 1 Chapter 7",
+      "book": 1,
+      "chapter": 7,
+      "source_range": "inspired by late-night work and fatigue-management scenes",
+      "target_level_note": "low-level rest-and-discipline story",
+      "estimated_known_coverage": 0.95,
+      "new_word_count": 5,
+      "new_words": [
+        {
+          "word": "台灯",
+          "pinyin": "tái dēng",
+          "gloss": "desk lamp"
+        },
+        {
+          "word": "休息",
+          "pinyin": "xiū xi",
+          "gloss": "to rest"
+        },
+        {
+          "word": "发抖",
+          "pinyin": "fā dǒu",
+          "gloss": "to shake"
+        },
+        {
+          "word": "硬",
+          "pinyin": "yìng",
+          "gloss": "stiff; hard"
+        },
+        {
+          "word": "撑",
+          "pinyin": "chēng",
+          "gloss": "to push through; to force oneself on"
+        }
+      ],
+      "sentences": [
+        {
+          "sentence_id": "b01c07-night-lamp-s01",
+          "chinese": "那天晚上，杂草的房间里很安静。",
+          "english_helper": "That night, Weed's room is very quiet."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s02",
+          "chinese": "只有一盏小台灯还亮着。",
+          "english_helper": "Only one small desk lamp is still on."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s03",
+          "chinese": "桌上放着木头、刀，还有没做完的小人。",
+          "english_helper": "On the table are wood, a knife, and a half-finished little figure."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s04",
+          "chinese": "杂草已经做了很久。",
+          "english_helper": "Weed has already been working for a long time."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s05",
+          "chinese": "眼睛有一点酸。",
+          "english_helper": "His eyes ache a little."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s06",
+          "chinese": "手指也开始发抖。",
+          "english_helper": "His fingers also begin to shake."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s07",
+          "chinese": "其实他自己知道，应该先休息一下。",
+          "english_helper": "Actually, he knows himself that he should rest for a bit first."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s08",
+          "chinese": "可是他没有停。",
+          "english_helper": "But he does not stop."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s09",
+          "chinese": "因为他一直有一个想法。",
+          "english_helper": "Because he has always had one thought."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s10",
+          "chinese": "休息就是落后。",
+          "english_helper": "Rest means falling behind."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s11",
+          "chinese": "停下来，就是浪费。",
+          "english_helper": "Stopping means wasting time."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s12",
+          "chinese": "如果别人还在走，自己就不能坐。",
+          "english_helper": "If others are still moving forward, he cannot sit still."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s13",
+          "chinese": "所以他继续撑。",
+          "english_helper": "So he keeps forcing himself onward."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s14",
+          "chinese": "可是越撑，他的手越硬。",
+          "english_helper": "But the more he pushes through, the stiffer his hand becomes."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s15",
+          "chinese": "刀也越不听话。",
+          "english_helper": "The knife also becomes harder to control."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s16",
+          "chinese": "本来很简单的一刀，结果还是偏了。",
+          "english_helper": "What should have been a simple cut still goes off."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s17",
+          "chinese": "杂草盯着那道错开的线，心里一下子很烦。",
+          "english_helper": "Weed stares at the crooked line and feels irritated at once."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s18",
+          "chinese": "他差一点就想更快地补回去。",
+          "english_helper": "He almost wants to fix it immediately and even faster."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s19",
+          "chinese": "可是他没有马上动。",
+          "english_helper": "But he does not move right away."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s20",
+          "chinese": "他只是把刀放下。",
+          "english_helper": "He only puts the knife down."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s21",
+          "chinese": "又低头看了看自己的手。",
+          "english_helper": "Then he lowers his head and looks at his own hand."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s22",
+          "chinese": "那只手抖得比他想的还厉害。",
+          "english_helper": "That hand is shaking more than he thought."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s23",
+          "chinese": "这时候，他终于承认了一件事。",
+          "english_helper": "At that moment, he finally admits one thing."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s24",
+          "chinese": "自己现在不是在努力。",
+          "english_helper": "Right now he is not being diligent."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s25",
+          "chinese": "自己现在只是在跟累硬拼。",
+          "english_helper": "Right now he is only fighting exhaustion head-on."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s26",
+          "chinese": "杂草起身去洗了脸。",
+          "english_helper": "Weed gets up and washes his face."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s27",
+          "chinese": "又喝了一点水。",
+          "english_helper": "Then he drinks a little water."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s28",
+          "chinese": "他只休息了不长的时间。",
+          "english_helper": "He rests only for a short time."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s29",
+          "chinese": "可是回到桌前的时候，手已经稳了一些。",
+          "english_helper": "But when he returns to the table, his hand is already steadier."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s30",
+          "chinese": "后来那一刀，也终于做对了。",
+          "english_helper": "Later, that cut is finally done correctly."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s31",
+          "chinese": "台灯还亮着。",
+          "english_helper": "The desk lamp is still on."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s32",
+          "chinese": "可是杂草的想法已经有一点不一样了。",
+          "english_helper": "But Weed's thinking is already a little different."
+        },
+        {
+          "sentence_id": "b01c07-night-lamp-s33",
+          "chinese": "他终于明白，真正想走远的人，也要知道什么时候先坐一下。",
+          "english_helper": "He finally understands that someone who truly wants to go far must also know when to sit down for a moment first."
+        }
+      ]
+    }
+  ]
+}
