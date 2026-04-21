@@ -187,6 +187,7 @@ export default function App() {
   const [selectedToken, setSelectedToken] = useState<TokenRecord | null>(null);
   const [loadingStoryId, setLoadingStoryId] = useState<string>("");
   const [errorMessage, setErrorMessage] = useState<string>("");
+  const [showMobileReaderMenu, setShowMobileReaderMenu] = useState<boolean>(false);
 
   useEffect(() => {
     let active = true;
@@ -248,6 +249,7 @@ export default function App() {
     setErrorMessage("");
     setLoadingStoryId(story.story_id);
     setSelectedToken(null);
+    setShowMobileReaderMenu(false);
 
     const chapterId = chapterKey(story.book, story.chapter);
     const savedStoryProgress = progress.perStoryProgress[story.story_id];
@@ -322,6 +324,7 @@ export default function App() {
   function goHome() {
     setSession(null);
     setSelectedToken(null);
+    setShowMobileReaderMenu(false);
   }
 
   const currentSentence = session ? session.story.sentences[session.sentenceIndex - 1] ?? null : null;
@@ -483,16 +486,29 @@ export default function App() {
       ) : currentSentence ? (
         <section className="reader-layout">
           <header className="reader-topbar">
-            <button className="ghost-button" onClick={goHome}>
-              Back to stories
-            </button>
+            <div className="reader-topbar-main">
+              <button className="ghost-button" onClick={goHome}>
+                Back to stories
+              </button>
+              <button
+                className="ghost-button mobile-menu-button"
+                onClick={() => setShowMobileReaderMenu((current) => !current)}
+                aria-expanded={showMobileReaderMenu}
+                aria-controls="mobile-reader-menu"
+              >
+                {showMobileReaderMenu ? "Close menu" : "More"}
+              </button>
+            </div>
             <div className="reader-title">
               <p className="eyebrow">
                 Book {session.story.book} Chapter {session.story.chapter}
               </p>
               <h1>{session.story.title}</h1>
             </div>
-            <div className="reader-jump-group">
+            <div
+              id="mobile-reader-menu"
+              className={`reader-jump-group ${showMobileReaderMenu ? "reader-jump-group-open" : ""}`}
+            >
               <label className="chapter-jump">
                 <span>Jump chapter</span>
                 <select
@@ -533,7 +549,7 @@ export default function App() {
           </header>
 
           <section className="reader-main-card">
-            <div className="reader-status-row reader-status-row-compact">
+            <div className={`reader-status-row reader-status-row-compact ${showMobileReaderMenu ? "reader-status-row-open" : ""}`}>
               <div>
                 <p className="eyebrow">Sentence</p>
                 <strong>
@@ -646,6 +662,26 @@ export default function App() {
                   <p>Highlighted words open a gloss card here, so you can read and check meaning without scrolling.</p>
                 </aside>
               )}
+            </div>
+
+            <div className="mobile-reader-bar">
+              <button
+                className="secondary-button mobile-action-button"
+                onClick={() => goToSentence(session.sentenceIndex - 1)}
+                disabled={session.sentenceIndex <= 1}
+              >
+                Prev
+              </button>
+              <button className="secondary-button mobile-action-button" onClick={toggleEnglish}>
+                {progress.showEnglish ? "Hide English" : "Show English"}
+              </button>
+              <button
+                className="primary-button mobile-action-button"
+                onClick={() => goToSentence(session.sentenceIndex + 1)}
+                disabled={session.sentenceIndex >= session.story.sentences.length}
+              >
+                {session.sentenceIndex >= session.story.sentences.length ? "End" : "Next"}
+              </button>
             </div>
           </section>
         </section>
