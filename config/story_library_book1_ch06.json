@@ -1,0 +1,414 @@
+{
+  "stories": [
+    {
+      "story_id": "b01c06-unsold-carving",
+      "title": "卖不掉的小雕刻",
+      "source_inspiration": "Book 1 Chapter 6",
+      "book": 1,
+      "chapter": 6,
+      "source_range": "inspired by early selling attempts and market disappointment scenes",
+      "target_level_note": "low-level first-selling-pressure story",
+      "estimated_known_coverage": 0.95,
+      "new_word_count": 5,
+      "new_words": [
+        {
+          "word": "价格",
+          "pinyin": "jià gé",
+          "gloss": "price"
+        },
+        {
+          "word": "降",
+          "pinyin": "jiàng",
+          "gloss": "to lower"
+        },
+        {
+          "word": "摆着",
+          "pinyin": "bǎi zhe",
+          "gloss": "to leave on display"
+        },
+        {
+          "word": "开玩笑",
+          "pinyin": "kāi wán xiào",
+          "gloss": "to joke"
+        },
+        {
+          "word": "解释",
+          "pinyin": "jiě shì",
+          "gloss": "to explain"
+        }
+      ],
+      "sentences": [
+        {
+          "sentence_id": "b01c06-unsold-carving-s01",
+          "chinese": "杂草这一次带了三件小雕刻去市场。",
+          "english_helper": "This time, Weed brings three small carvings to the market."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s02",
+          "chinese": "他比上次准备得更早。",
+          "english_helper": "He prepares earlier than last time."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s03",
+          "chinese": "位置也选得更好。",
+          "english_helper": "He also chooses a better spot."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s04",
+          "chinese": "他把东西摆得很整齐。",
+          "english_helper": "He arranges the pieces very neatly."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s05",
+          "chinese": "然后站在旁边等。",
+          "english_helper": "Then he stands beside them and waits."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s06",
+          "chinese": "一开始，他心里还有一点希望。",
+          "english_helper": "At first, he still has a little hope in his heart."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s07",
+          "chinese": "可是看的人虽然有，买的人却没有。",
+          "english_helper": "But although some people look, no one buys."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s08",
+          "chinese": "有人只看一眼就走。",
+          "english_helper": "Some people take one glance and leave."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s09",
+          "chinese": "还有人问了价格以后，就像听见了什么笑话。",
+          "english_helper": "Others ask the price and then react as if they heard a joke."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s10",
+          "chinese": "杂草的脸没有变。",
+          "english_helper": "Weed's face does not change."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s11",
+          "chinese": "可是心里越来越沉。",
+          "english_helper": "But inside, he feels heavier and heavier."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s12",
+          "chinese": "后来，他开始想，也许只是价格太高。",
+          "english_helper": "Later, he begins to think that maybe the price is simply too high."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s13",
+          "chinese": "所以他把价格降了一点。",
+          "english_helper": "So he lowers the price a little."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s14",
+          "chinese": "过了一会儿，还是没有人买。",
+          "english_helper": "After a while, still no one buys."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s15",
+          "chinese": "他又降了一点。",
+          "english_helper": "He lowers it again."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s16",
+          "chinese": "那三件东西还是一直摆着。",
+          "english_helper": "Those three pieces still remain sitting there on display."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s17",
+          "chinese": "这时候，杂草心里冒出一个很难听的想法。",
+          "english_helper": "At this point, a harsh thought rises in Weed's mind."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s18",
+          "chinese": "也许不是价格的问题。",
+          "english_helper": "Maybe it is not a price problem."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s19",
+          "chinese": "也许是这些东西根本不值得卖。",
+          "english_helper": "Maybe these pieces simply are not worth selling at all."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s20",
+          "chinese": "他差一点就想把它们收起来。",
+          "english_helper": "He almost wants to pack them up."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s21",
+          "chinese": "可是一个老人走过来，拿起其中一件，看了很久。",
+          "english_helper": "But an old man walks over, picks one up, and looks at it for a long time."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s22",
+          "chinese": "老人最后没有买。",
+          "english_helper": "In the end, the old man does not buy it."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s23",
+          "chinese": "老人只问：“这是你自己做的吗？”",
+          "english_helper": "The old man only asks, 'Did you make this yourself?'"
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s24",
+          "chinese": "杂草点头。",
+          "english_helper": "Weed nods."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s25",
+          "chinese": "老人又问：“你为什么做这个样子？”",
+          "english_helper": "The old man asks again, 'Why did you make it look like this?'"
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s26",
+          "chinese": "杂草一下子说不出来。",
+          "english_helper": "Weed suddenly cannot answer."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s27",
+          "chinese": "因为他刚才只想着卖掉它。",
+          "english_helper": "Because a moment ago, he was only thinking about selling it."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s28",
+          "chinese": "他没有想过怎么解释它。",
+          "english_helper": "He had not thought about how to explain it."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s29",
+          "chinese": "老人把东西放回去，说：“价格不是最先要想的事。”",
+          "english_helper": "The old man puts the piece back and says, 'Price is not the first thing to think about.'"
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s30",
+          "chinese": "“你要先知道，自己做的是什么。”",
+          "english_helper": "'First you need to know what it is that you made.'"
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s31",
+          "chinese": "老人走了以后，杂草没有再降价格。",
+          "english_helper": "After the old man leaves, Weed does not lower the price again."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s32",
+          "chinese": "他只是站在那里，看着自己的三件作品。",
+          "english_helper": "He only stands there, looking at his three pieces."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s33",
+          "chinese": "那天他还是没有卖掉。",
+          "english_helper": "That day, he still does not sell them."
+        },
+        {
+          "sentence_id": "b01c06-unsold-carving-s34",
+          "chinese": "可是回去的时候，他第一次不是只想“怎么卖”，而是开始想“我到底做了什么”。",
+          "english_helper": "But on the way back, for the first time he is no longer only thinking, 'How do I sell this?' He starts thinking, 'What did I actually make?'"
+        }
+      ]
+    },
+    {
+      "story_id": "b01c06-third-smile",
+      "title": "改了三次的笑脸",
+      "source_inspiration": "Book 1 Chapter 6",
+      "book": 1,
+      "chapter": 6,
+      "source_range": "inspired by repeated carving practice and expression study scenes",
+      "target_level_note": "low-level expression-study story",
+      "estimated_known_coverage": 0.95,
+      "new_word_count": 5,
+      "new_words": [
+        {
+          "word": "笑脸",
+          "pinyin": "xiào liǎn",
+          "gloss": "smiling face"
+        },
+        {
+          "word": "僵",
+          "pinyin": "jiāng",
+          "gloss": "stiff"
+        },
+        {
+          "word": "镜子",
+          "pinyin": "jìng zi",
+          "gloss": "mirror"
+        },
+        {
+          "word": "自然",
+          "pinyin": "zì rán",
+          "gloss": "natural"
+        },
+        {
+          "word": "观察",
+          "pinyin": "guān chá",
+          "gloss": "to observe"
+        }
+      ],
+      "sentences": [
+        {
+          "sentence_id": "b01c06-third-smile-s01",
+          "chinese": "杂草那天想做一个笑着的小人。",
+          "english_helper": "That day, Weed wants to make a little figure with a smile."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s02",
+          "chinese": "他觉得笑脸看起来很简单。",
+          "english_helper": "He thinks a smiling face looks simple."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s03",
+          "chinese": "嘴角往上一点，不就可以了吗？",
+          "english_helper": "You just lift the corners of the mouth a little, right?"
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s04",
+          "chinese": "可是第一件做出来的时候，他自己先皱了眉。",
+          "english_helper": "But when the first piece is done, he frowns first himself."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s05",
+          "chinese": "那个小人像是在忍痛。",
+          "english_helper": "The little figure looks like it is enduring pain."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s06",
+          "chinese": "一点也不像在笑。",
+          "english_helper": "It does not look like it is smiling at all."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s07",
+          "chinese": "杂草不高兴，又做第二次。",
+          "english_helper": "Weed is unhappy and makes it a second time."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s08",
+          "chinese": "第二次的嘴更开。",
+          "english_helper": "The mouth is more open in the second one."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s09",
+          "chinese": "可是眼睛却很僵。",
+          "english_helper": "But the eyes are very stiff."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s10",
+          "chinese": "看起来还是不对。",
+          "english_helper": "It still does not look right."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s11",
+          "chinese": "杂草本来以为，只要形状像，东西就会像。",
+          "english_helper": "Weed had thought that as long as the shape looked right, the thing itself would look right."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s12",
+          "chinese": "现在他才发现，笑不是只有嘴。",
+          "english_helper": "Now he realizes that a smile is not only the mouth."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s13",
+          "chinese": "眼睛也要笑。",
+          "english_helper": "The eyes also need to smile."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s14",
+          "chinese": "脸也要放松。",
+          "english_helper": "The face also has to relax."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s15",
+          "chinese": "他坐在那里，看着前面的失败品。",
+          "english_helper": "He sits there looking at the failed pieces in front of him."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s16",
+          "chinese": "过了一会儿，他拿来一面小镜子。",
+          "english_helper": "After a while, he brings over a small mirror."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s17",
+          "chinese": "他先看自己的脸。",
+          "english_helper": "He first looks at his own face."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s18",
+          "chinese": "然后试着笑一下。",
+          "english_helper": "Then he tries smiling a little."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s19",
+          "chinese": "第一次笑得很奇怪。",
+          "english_helper": "The first smile looks strange."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s20",
+          "chinese": "第二次也不太自然。",
+          "english_helper": "The second one is also not very natural."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s21",
+          "chinese": "后来，他想到妹妹高兴的时候的样子。",
+          "english_helper": "Later, he thinks of how his younger sister looks when she is happy."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s22",
+          "chinese": "又想到奶奶轻轻笑的时候。",
+          "english_helper": "Then he thinks of his grandma smiling softly."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s23",
+          "chinese": "他忽然明白，自己不能只靠记住线。",
+          "english_helper": "He suddenly understands that he cannot rely only on remembering lines."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s24",
+          "chinese": "自己还要观察人。",
+          "english_helper": "He also has to observe people."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s25",
+          "chinese": "第三次下刀的时候，他慢了很多。",
+          "english_helper": "When he cuts for the third time, he is much slower."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s26",
+          "chinese": "他先做眼睛。",
+          "english_helper": "He shapes the eyes first."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s27",
+          "chinese": "后来才做嘴。",
+          "english_helper": "Only later does he shape the mouth."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s28",
+          "chinese": "做完以后，那张脸还是很简单。",
+          "english_helper": "After finishing, the face is still very simple."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s29",
+          "chinese": "可是这一次，看起来终于像真的在笑。",
+          "english_helper": "But this time, it finally looks like it is really smiling."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s30",
+          "chinese": "杂草看了很久，自己也轻轻笑了一下。",
+          "english_helper": "Weed looks at it for a long time and also gives a small smile himself."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s31",
+          "chinese": "他终于明白，有些东西不能只靠手学。",
+          "english_helper": "He finally understands that some things cannot be learned only with the hands."
+        },
+        {
+          "sentence_id": "b01c06-third-smile-s32",
+          "chinese": "有些东西，要先学会看。",
+          "english_helper": "Some things must first be learned by watching."
+        }
+      ]
+    }
+  ]
+}
