@@ -1,5 +1,6 @@
 import { startTransition, useEffect, useState } from "react";
-import storyLibraryData from "../config/story_library.json";
+import storyLibraryBaseData from "../config/story_library.json";
+import storyLibraryBook1Ch6To10Data from "../config/story_library_book1_ch6_10.json";
 import "./styles.css";
 import { loadChapters, loadLexicon, loadMeta } from "./lib/reader-data";
 import { loadProgress, saveProgress } from "./lib/storage";
@@ -29,7 +30,19 @@ type StoryProgress = {
 
 const PUNCTUATION_RE = /^[，。！？；：、“”‘’（）《》〈〉「」『』—…,.!?;:()[\]"'-]+$/;
 
-const storyLibrary = storyLibraryData as StoryLibrary;
+const mergedStories = [
+  ...(storyLibraryBaseData as StoryLibrary).stories,
+  ...(storyLibraryBook1Ch6To10Data as StoryLibrary).stories,
+];
+
+const storyLibrary: StoryLibrary = {
+  stories: [...new Map(mergedStories.map((story) => [story.story_id, story])).values()].sort(
+    (left, right) =>
+      left.book - right.book ||
+      left.chapter - right.chapter ||
+      left.story_id.localeCompare(right.story_id),
+  ),
+};
 
 function clampSentenceIndex(index: number, count: number): number {
   if (count <= 0) {
